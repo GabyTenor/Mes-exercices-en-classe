@@ -1,0 +1,13 @@
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.csprojAssemblyReference.cache
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.AssemblyInfoInputs.cache
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.AssemblyInfo.cs
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.csproj.CoreCompileInputs.cache
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Catégoriser selon l'âge.exe
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Catégoriser selon l'âge.deps.json
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Catégoriser selon l'âge.runtimeconfig.json
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Catégoriser selon l'âge.runtimeconfig.dev.json
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Catégoriser selon l'âge.dll
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Catégoriser selon l'âge.pdb
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.dll
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.pdb
+E:\5TTI\Cours optionnels\Informatique\MSV\Catégoriser selon l'âge\Catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Catégoriser selon l'âge.genruntimeconfig.cache
